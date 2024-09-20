@@ -1,2 +1,1 @@
-# warehouse_api
-Development of a REST API using FastAPI to manage processes in the warehouse. The API should allow the management of goods, stock, and orders.
+![image](https://github.com/user-attachments/assets/654fb748-7041-4d2d-a519-f070d5db5e23)
